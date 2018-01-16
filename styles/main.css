@@ -1,0 +1,13 @@
+body {
+    background: url(IMG_1640.JPG);
+    font-family: calibri;
+    colour: rgb(63, 63, 63); 
+}
+h2 {
+    colour: white;
+    background: rgb(145, 1, 1);
+    padding: 5px, 10px;
+}
+p {
+    colour: white;
+}
