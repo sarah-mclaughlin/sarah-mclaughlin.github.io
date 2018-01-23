@@ -9,6 +9,19 @@
     box-sizing: border-box;
 }
 
+.title {
+    margin: 15%;
+    background-color: teal;
+    background-blend-mode: lighten;
+}
+
+h1 {
+    margin: 15%;
+    background-color: teal;
+    text-align: left;
+    color: white;
+}
+
 .grid {
     margin: 0 auto;
     max-width: 1200px;
