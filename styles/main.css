@@ -1,3 +1,25 @@
-body {
-    border: red;
+
+* {
+    border: 1px solid red !important;
+}
+
+.row 1 {
+    width: 100%;
+}
+
+.row 2 {
+    width: 100%;
+}
+
+
+.row 3 {
+    width: 100%;
+}
+
+.row 4 {
+    width: 100%;
+}
+
+.row 5 {
+    width: 100%;
 }
