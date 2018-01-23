@@ -1,7 +1,16 @@
+body {
+    outline: 1px black !important;
+ }
 
-* {
-    border: 1px solid red !important;
-}
+ * {
+    outline: 1px black;
+ }
+ 
+ * {
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     -ms-box-sizing: border-box;
+     box-sizing: border-box;
 
 .row 1 {
     width: 100%;
@@ -10,7 +19,6 @@
 .row 2 {
     width: 100%;
 }
-
 
 .row 3 {
     width: 100%;
@@ -23,3 +31,16 @@
 .row 5 {
     width: 100%;
 }
+
+.banner {
+    background-color: teal;
+}
+h1 {
+    
+    text-align: center;
+    color: white;
+    font-family: Lucida Sans; 
+}
+
+
+
