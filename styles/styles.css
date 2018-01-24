@@ -11,30 +11,32 @@
 }
 
 body {
-    margin: 10%
+    margin: 0%;
+    padding: 0%;
 }
 
 .row {
     width: 100%;
+    margin-bottom: 20px;
+    display: flex;
 }
 
 .title {
     background-color: teal;
     width: 100%; 
-    padding-bottom: 2%;
 }
 
 h1 {
     padding-top: 5%;
-    padding-left: 10%;
+    padding-left: 16.66%;
     padding-bottom: 3%
     text-align: left;
     font-weight: 70;
     color: white;
 }
 
-h3 {
-    padding-left: 10%;
+h4 {
+    margin-left: 16.66%;
     padding-bottom: 0%;
     font-weight: 60;
     text-align: left;
@@ -43,42 +45,53 @@ h3 {
 
 .images {
     padding-top: 7%;
-    padding-left: 10%;
-    padding-right: 10%;
-    display: flex; 
-}
-img {
-    width: auto;
-    height: 180px;
+    margin-left: 16.66%;
+    margin-right: 16.66%;
+    display: flex;
 }
 
+.image1 {
+    margin-left: 0%;
+    padding: 8%;
+    margin-right: 0%;
+    width: 100%;
+    height: auto;
+}
 .image2 {
-    padding-left: 4%;
-    padding-right: 4%
+    margin-left: 0%;
+    padding: 8%;
+    margin-right: 0%;
+    width: 100%;
+    height: auto;
+}
+.image3 {
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 8%;
+    width: 100%;
+    height: auto;
 }
 
 .labels {
     padding-top: 10px;
-    padding-left: 15%;
-    padding-right: 10%;
+    margin-left: 16.66%;
     display: flex;
+    text-align: center
 }
 .Time {
-    margin-left: 17%;
-    margin-right: 15%;
+    width: 16.66%;
     background-color: teal;
     color: white;
-    padding: 6px;
 }
 .Reflection {
+    width: 16.66%;
     background-color: teal;
     color: white;
-    padding: 6px;
 }
 .Technical {
+    width: 16.66%;
     background-color: teal;
     color: white;
-    padding: 6px;
 }
 .labels2 {
     padding-top: 10px;
@@ -112,21 +125,12 @@ a {
     padding-right: 10%;
     display: flex; 
 }
-img {
-    width: auto;
-    height: 180px;
-}
 
 .image5 {
     padding-left: 4%;
     padding-right: 4%
 }
 
-.row {
-    width: 100%;
-    margin-bottom: 20px;
-    display: flex;
-}
 
 .footer {
     background-color: teal;
