@@ -17,13 +17,19 @@ body {
 
 .row {
     width: 100%;
-    margin-bottom: 20px;
+    margin: 0px;
+    padding: 0px;
     display: flex;
+}
+
+div a {
+    color: white;
 }
 
 .title {
     background-color: teal;
-    width: 100%; 
+    width: 100%;
+    padding-bottom: 1%; 
 }
 
 h1 {
@@ -44,7 +50,7 @@ h4 {
 }
 
 .images {
-    padding-top: 7%;
+    padding-top: 5%;
     margin-left: 16.66%;
     margin-right: 16.66%;
     display: flex;
@@ -73,72 +79,115 @@ h4 {
 }
 
 .labels {
-    padding-top: 10px;
     margin-left: 16.66%;
+    margin-right: 16.66%;
+    width: 100%;
     display: flex;
-    text-align: center
 }
 .Time {
-    width: 16.66%;
+    width: 33.33%;
     background-color: teal;
     color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
 }
 .Reflection {
-    width: 16.66%;
+    width: 33.33%;
     background-color: teal;
     color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
 }
 .Technical {
-    width: 16.66%;
+    width: 33.33%;
     background-color: teal;
     color: white;
-}
-.labels2 {
-    padding-top: 10px;
-    padding-left: 13%;
-    padding-right: 10%;
-    margin-bottom: 8%;
-    display: flex;
-}
-.EI {
-    background-color: teal;
-    color: white;
-    padding: 6px;
-    margin-left: 12%;
-    margin-right: 15%;
-}
-.Technical2 {
-    background-color: teal;
-    color: white;
-    padding: 6px;
-}
-
-a {
-    background-color: teal;
-    color: white;
-    padding: 3px;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
 }
 
 .images2 {
-    padding-top: 2%;
-    padding-left: 10%;
-    padding-right: 10%;
-    display: flex; 
+    padding-top: 5%;
+    margin-left: 16.66%;
+    margin-right: 16.66%;
+    display: flex;
 }
-
+.image4 {
+    margin-left: 0%;
+    padding: 8%;
+    margin-right: 0%;
+    width: 100%;
+    height: auto;
+}
 .image5 {
-    padding-left: 4%;
-    padding-right: 4%
+    margin-left: 0%;
+    padding: 8%;
+    margin-right: 0%;
+    width: 100%;
+    height: auto;
+}
+.image6 {
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 8%;
+    width: 100%;
+    height: auto;
 }
 
+.labels2 {
+    margin-left: 16.66%;
+    margin-right: 16.66%;
+    width: 100%;
+    display: flex;
+}
+.EI {
+    width: 33.33%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 1%;
+    border-radius: 5px;
+}
+.Technical2 {
+    width: 33.33%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
+}
+.Technical3 {
+    width: 33.33%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
+}
 
 .footer {
+    margin-top: 7%;
     background-color: teal;
     width: 100%; 
     padding-bottom: 2%;
 }
 .indent {
-    padding-left: 10%;
+    padding-left: 16.66%;
     padding-top: 1%;
     color: white;
 }
