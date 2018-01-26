@@ -175,6 +175,71 @@ h4 {
     border-radius: 5px;
 }
 
+.images3 {
+    padding-top: 5%;
+    margin-left: 16.66%;
+    margin-right: 16.66%;
+    display: flex;
+}
+.image7 {
+    margin-left: 0%;
+    padding: 8%;
+    margin-right: 0%;
+    width: 100%;
+    height: auto;
+}
+.image8 {
+    margin-left: 0%;
+    padding: 8%;
+    margin-right: 0%;
+    width: 100%;
+    height: auto;
+}
+.image9 {
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 8%;
+    width: 100%;
+    height: auto;
+}
+
+.labels3 {
+    margin-left: 16.66%;
+    margin-right: 16.66%;
+    width: 100%;
+    display: flex;
+}
+.Meditation {
+    width: 33.33%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
+}
+.Blog8 {
+    width: 33.33%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
+}
+.Blog9 {
+    width: 33.33%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
+}
+
 .footer {
     margin-top: 7%;
     background-color: teal;
