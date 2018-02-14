@@ -294,6 +294,71 @@ h4 {
     padding: 1%;
     border-radius: 5px;
 }
+.Technical6 {
+    width: 33.33%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
+}
+
+.images5 {
+    padding-top: 5%;
+    margin-left: 16.66%;
+    margin-right: 16.66%;
+    display: flex;
+}
+.image13 {
+    margin-left: 0%;
+    padding: 8%;
+    margin-right: 0%;
+    width: 100%;
+    height: auto;
+}
+.image14 {
+    margin-left: 0%;
+    padding: 8%;
+    margin-right: 0%;
+    width: 100%;
+    height: auto;
+}
+.image15 {
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 8%;
+    width: 100%;
+    height: auto;
+}
+
+.labels5 {
+    margin-left: 16.66%;
+    margin-right: 16.66%;
+    width: 100%;
+    display: flex;
+}
+.Control {
+    width: 33.33%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
+}
+.XX {
+    width: 33.33%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
+}
 .XX {
     width: 33.33%;
     background-color: teal;
