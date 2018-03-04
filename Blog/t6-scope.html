@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Blog</title>
+    <meta charset="UTF-8">
+    <link href="../styles/main.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css" rel="stylesheet" type="text/css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css" rel="stylesheet" type="text/css">    
+  </head>
+
+  <body>
+    <div class="title">
+      <h2>Javascript scope</h2>
+    </div> 
+    <div class="text">
+      <h3>What is 'scope', and how does it work in JavaScript?</h3>
+      <p>
+        JavaScript has two scopes: global and local. A variable that is declared outside a 
+        function definition is a global variable, and its value is accessible and modifiable throughout 
+        your program. A variable that is declared inside a function definition is local.
+      </p>
+      <p>
+          This basically means that if you set a variable ie x = 0 inside a function (locally), x will only equal 0 in 
+          relation to that specific function.  x can equal anything else outside of that function.  If you set a variable 
+          ie x = 0 globally ie not inside any specific function x will equal 0 in relation to all functions in the js file.
+      </p>
+    </div>
+    <div class="home">
+      <a href="../index.html"><strong>HOME</strong></a>
+    </div>
+    <div class="footer">
+      <footer class="indent"></footer>
+    </div>
+  </body>
+</html>
