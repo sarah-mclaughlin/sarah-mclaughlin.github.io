@@ -370,6 +370,71 @@ h4 {
     border-radius: 5px;
 }
 
+.images6 {
+    padding-top: 5%;
+    margin-left: 16.66%;
+    margin-right: 16.66%;
+    display: flex;
+}
+.image16 {
+    margin-left: 0%;
+    padding: 8%;
+    margin-right: 0%;
+    width: 100%;
+    height: auto;
+}
+.image17 {
+    margin-left: 0%;
+    padding: 8%;
+    margin-right: 0%;
+    width: 100%;
+    height: auto;
+}
+.image18 {
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 8%;
+    width: 100%;
+    height: auto;
+}
+
+.labels6 {
+    margin-left: 16.66%;
+    margin-right: 16.66%;
+    width: 100%;
+    display: flex;
+}
+.Connection {
+    width: 33.33%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
+}
+.XX {
+    width: 33.33%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
+}
+.XX {
+    width: 33.33%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 1%;
+    border-radius: 5px;
+}
+
 .footer {
     margin-top: 7%;
     background-color: teal;
